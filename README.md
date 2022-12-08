@@ -4,7 +4,7 @@ Nuestro proyecto tiene como objetivo Genes asociados a la resistencia contra ant
 
 
 
-Dentro del repositorio se encuentran todas las versiónes del código, incluyendo la versión final
+Dentro del repositorio se encuentran todas las versiónes del código, incluyendo la versión final:
 
         Dentro de la versión final se encuentran varias funciones: crear_termino, crear_idslist, 
         archivo_fastas, crear_path y crear_termkey. Cada una de ellas es necesaria para 
