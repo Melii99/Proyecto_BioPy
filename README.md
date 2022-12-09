@@ -1,6 +1,6 @@
 # README
 
-Nuestro proyecto tiene como objetivo Genes asociados a la resistencia contra antibióticos: Beta-lactámicos tipo A, B, C y D
+Este proyecto tiene como objetivo Genes asociados a la resistencia contra antibióticos: Beta-lactámicos tipo A, B, C y D
 
 
 
